@@ -10,4 +10,4 @@ Git
 Visual Studio Code
 
 # Estado del proyecto
-Proyecto en estado de desarrollo -v1.0
+Proyecto en estado de desarrollo - v1.0
