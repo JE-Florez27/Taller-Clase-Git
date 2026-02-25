@@ -11,3 +11,4 @@ Visual Studio Code
 
 # Estado del proyecto
 Actividad Git Realizada
+
